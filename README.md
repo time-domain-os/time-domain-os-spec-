@@ -43,3 +43,11 @@ Only the conceptual idea is described here; no internal logic is included.
 - No implementation details are included.  
 - No formulas, thresholds, or algorithms are disclosed.  
 - This repository is for conceptual exploration only.
+
+## Background
+
+Modern operating systems rely heavily on event-driven scheduling.  
+However, event-driven models struggle with jitter, instability, and unpredictable load changes.  
+A time-domain approach provides a more stable foundation by observing drift and phase transitions.
+
+No formulas, thresholds, or implementation logic will ever be published in this repository.
